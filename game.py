@@ -73,12 +73,12 @@ if __name__ == "__main__":
 
 
 
-    # use the function from abvove???
+    # use the function from above???
 
-print(winner(u, c))
+    print(winner(u, c))
 
-#message = winner(u, c)
-#print(message)
+# message = winner(u, c)
+# print(message)
 
 
 
